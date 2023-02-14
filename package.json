@@ -1,0 +1,25 @@
+{
+  "name": "frontendmasters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushUprety/Roadtoreact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushUprety/Roadtoreact/issues"
+  },
+  "homepage": "https://github.com/AyushUprety/Roadtoreact#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "prettier": "^2.8.4",
+    "vite": "^4.1.1"
+  }
+}
